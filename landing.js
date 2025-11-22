@@ -8,6 +8,9 @@ const WHATSAPP_NUMBER = '573043901902'; // Formato: código país + número sin 
 // Obtén tu key gratis en: https://web3forms.com
 const WEB3FORMS_ACCESS_KEY = "b979c435-6e52-4e9c-b5f6-87166a88269a"; // ← CAMBIAR AQUÍ
 
+// Importar Speed Insights (opcional)
+// import { SpeedInsights } from "@vercel/speed-insights/next"
+
 // Idioma por defecto
 let currentLanguage = 'es';
 
